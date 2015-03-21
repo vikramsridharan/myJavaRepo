@@ -9,6 +9,6 @@ public class Tester {
   @Test
   public void f() {
 	  Application app = new Application();
-	  Assert.assertEquals(app.printer(), "App");
+	  Assert.assertEquals(app.printer(), "Application");
   }
 }
